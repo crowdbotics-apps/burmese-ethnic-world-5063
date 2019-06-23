@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT burmese_ethnic_world_5063.wsgi:application

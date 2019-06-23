@@ -1,0 +1,3 @@
+rootProject.name = 'burmese_ethnic_world_5063'
+
+include ':app'
